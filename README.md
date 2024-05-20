@@ -29,4 +29,4 @@ Esse projeto possui licença MIT.
 
 #Projeto Online
 Você pode visualizar o projeto online através
-<a style="border: none;" href="" target="_blank">desse link</a>.
+<a style="border: none;" href="https://chiarelo.github.io/Rocketseat-Blog-de-gatos/" target="_blank">desse link</a>.
